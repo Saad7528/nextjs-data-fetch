@@ -1,0 +1,104 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Mechanical Keyboard",
+      "category": "Accessories",
+      "price": 4500,
+      "stock": 15,
+      "rating": 4.8,
+      "image": "https://images.unsplash.com/photo-1511467687858-23d96c32e4ae?w=500&q=80",
+      "description": "RGB backlit mechanical keyboard with blue switches."
+    },
+    {
+      "id": 2,
+      "name": "Wireless Gaming Mouse",
+      "category": "Accessories",
+      "price": 2200,
+      "stock": 25,
+      "rating": 4.5,
+      "image": "https://images.unsplash.com/photo-1527698266440-12104e498b76?w=500&q=80",
+      "description": "Ergonomic 2.4GHz wireless mouse with adjustable DPI."
+    },
+    {
+      "id": 3,
+      "name": "27-inch 4K Monitor",
+      "category": "Hardware",
+      "price": 32000,
+      "stock": 8,
+      "rating": 4.9,
+      "image": "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?w=500&q=80",
+      "description": "Ultra HD IPS display with HDR10 support."
+    },
+    {
+      "id": 4,
+      "name": "Noise Cancelling Headphones",
+      "category": "Audio",
+      "price": 12500,
+      "stock": 12,
+      "rating": 4.7,
+      "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500&q=80",
+      "description": "Over-ear headphones with active noise cancellation."
+    },
+    {
+      "id": 5,
+      "name": "External SSD 1TB",
+      "category": "Storage",
+      "price": 8500,
+      "stock": 20,
+      "rating": 4.6,
+      "image": "https://images.unsplash.com/photo-1597872200370-499dee469507?w=500&q=80",
+      "description": "High-speed portable SSD with USB 3.2 support."
+    },
+    {
+      "id": 6,
+      "name": "Smart Watch Series 7",
+      "category": "Wearables",
+      "price": 18000,
+      "stock": 10,
+      "rating": 4.4,
+      "image": "https://images.unsplash.com/photo-1579586337278-3befd40fd17a?w=500&q=80",
+      "description": "Fitness tracker with heart rate and blood oxygen monitoring."
+    },
+    {
+      "id": 7,
+      "name": "Webcam 1080p",
+      "category": "Accessories",
+      "price": 3500,
+      "stock": 30,
+      "rating": 4.2,
+      "image": "https://images.unsplash.com/photo-1588508065123-287b28e013da?w=500&q=80",
+      "description": "Full HD webcam with built-in microphone for streaming."
+    },
+    {
+      "id": 8,
+      "name": "Gaming Chair",
+      "category": "Furniture",
+      "price": 15500,
+      "stock": 5,
+      "rating": 4.5,
+      "image": "https://images.unsplash.com/photo-1598550476439-6847785fce66?w=500&q=80",
+      "description": "Adjustable gaming chair with lumbar support and headrest."
+    },
+    {
+      "id": 9,
+      "name": "Bluetooth Speaker",
+      "category": "Audio",
+      "price": 4200,
+      "stock": 18,
+      "rating": 4.3,
+      "image": "https://images.unsplash.com/photo-1608156639585-b3a032ef9689?w=500&q=80",
+      "description": "Portable waterproof speaker with 12 hours battery life."
+    },
+    {
+      "id": 10,
+      "name": "Laptop Cooling Pad",
+      "category": "Accessories",
+      "price": 1800,
+      "stock": 40,
+      "rating": 4.1,
+      "image": "https://images.unsplash.com/photo-1587202392411-e0e252a7443e?w=500&q=80",
+      "description": "Dual fan cooling pad for laptops up to 17 inches."
+    }
+  ]
+}

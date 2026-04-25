@@ -8,7 +8,7 @@ const Header = () => {
     const links =
         <>
         <li><Link className={`${pathname === '/' ? 'text-blue-500' : ''}`} href={"/"}>Home</Link></li>
-        <li><Link className={`${pathname === '/post' ? 'text-blue-500' : ''}`} href={"/post"}>Post</Link></li>
+        <li><Link className={`${pathname === '/posts' ? 'text-blue-500' : ''}`} href={"/posts"}>Posts</Link></li>
         <li><Link className={`${pathname === '/about' ? 'text-blue-500' : ''}`} href={"/about"}>About</Link></li>
         <li><Link className={`${pathname === '/contact' ? 'text-blue-500' : ''}`} href={"/contact"}>Contact</Link></li>
         </>
